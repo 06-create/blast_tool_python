@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.17.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_196271</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>49</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_196271</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>49</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|2852408356|emb|OZ040817.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30345_1#232 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ040817</Hit_accession>
+  <Hit_len>4945806</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4035977</Hsp_hit-from>
+      <Hsp_hit-to>4035929</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|2853665327|gb|CP173561.1|</Hit_id>
+  <Hit_def>Escherichia coli strain 98201 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP173561</Hit_accession>
+  <Hit_len>4883878</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>2902729</Hsp_hit-from>
+      <Hsp_hit-to>2902777</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|2887063842|gb|CP125914.1|</Hit_id>
+  <Hit_def>Escherichia coli strain IVRI_FBI_593 chromosome</Hit_def>
+  <Hit_accession>CP125914</Hit_accession>
+  <Hit_len>4982747</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4953962</Hsp_hit-from>
+      <Hsp_hit-to>4954010</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|2852407997|emb|OZ039544.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30345_1#135 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ039544</Hit_accession>
+  <Hit_len>5020686</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4074495</Hsp_hit-from>
+      <Hsp_hit-to>4074447</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|2852408548|emb|OZ039822.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30224_1#182 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ039822</Hit_accession>
+  <Hit_len>4926076</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4112248</Hsp_hit-from>
+      <Hsp_hit-to>4112200</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|2852408186|emb|OZ039661.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30348_2#259 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ039661</Hit_accession>
+  <Hit_len>5201064</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4330783</Hsp_hit-from>
+      <Hsp_hit-to>4330735</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|2852408176|emb|OZ039649.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30224_1#35 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ039649</Hit_accession>
+  <Hit_len>5077986</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4264873</Hsp_hit-from>
+      <Hsp_hit-to>4264825</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|2852407697|emb|OZ038619.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30345_1#61 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ038619</Hit_accession>
+  <Hit_len>5065459</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4192450</Hsp_hit-from>
+      <Hsp_hit-to>4192402</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|2962022716|gb|CP188132.1|</Hit_id>
+  <Hit_def>Escherichia coli strain TUM22763 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP188132</Hit_accession>
+  <Hit_len>4583667</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>3825354</Hsp_hit-from>
+      <Hsp_hit-to>3825306</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|2929986479|gb|CP184062.1|</Hit_id>
+  <Hit_def>Escherichia coli strain 1448 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP184062</Hit_accession>
+  <Hit_len>5083733</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>3647206</Hsp_hit-from>
+      <Hsp_hit-to>3647254</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|2843354427|gb|CP172108.1|</Hit_id>
+  <Hit_def>Escherichia coli strain QL57EC chromosome, complete genome</Hit_def>
+  <Hit_accession>CP172108</Hit_accession>
+  <Hit_len>4718459</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>3965029</Hsp_hit-from>
+      <Hsp_hit-to>3964981</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|2746207557|gb|CP158447.1|</Hit_id>
+  <Hit_def>Escherichia coli strain CS6L chromosome, complete genome</Hit_def>
+  <Hit_accession>CP158447</Hit_accession>
+  <Hit_len>5003694</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>743337</Hsp_hit-from>
+      <Hsp_hit-to>743385</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|2788447907|gb|CP100933.1|</Hit_id>
+  <Hit_def>Escherichia coli strain ET665 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP100933</Hit_accession>
+  <Hit_len>4861264</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4074787</Hsp_hit-from>
+      <Hsp_hit-to>4074739</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|2842069266|gb|CP164104.1|</Hit_id>
+  <Hit_def>Escherichia coli strain OXEC-73 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP164104</Hit_accession>
+  <Hit_len>5047121</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>2217229</Hsp_hit-from>
+      <Hsp_hit-to>2217181</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|2842710588|gb|CP163811.1|</Hit_id>
+  <Hit_def>Escherichia coli strain OXEC-10 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP163811</Hit_accession>
+  <Hit_len>5086505</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4152766</Hsp_hit-from>
+      <Hsp_hit-to>4152718</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|2839962486|gb|CP164600.1|</Hit_id>
+  <Hit_def>Escherichia coli strain OXEC-416 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP164600</Hit_accession>
+  <Hit_len>5178322</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>608022</Hsp_hit-from>
+      <Hsp_hit-to>608070</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|2852409769|emb|OZ040616.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30859_5#135 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ040616</Hit_accession>
+  <Hit_len>5245929</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4359470</Hsp_hit-from>
+      <Hsp_hit-to>4359422</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|2852408649|emb|OZ039933.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30345_1#118 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ039933</Hit_accession>
+  <Hit_len>5006820</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4096682</Hsp_hit-from>
+      <Hsp_hit-to>4096634</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|2973423559|gb|CP190036.1|</Hit_id>
+  <Hit_def>Escherichia coli strain EC17CM12 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP190036</Hit_accession>
+  <Hit_len>4962682</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4169444</Hsp_hit-from>
+      <Hsp_hit-to>4169396</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|2997059996|gb|CP071328.1|</Hit_id>
+  <Hit_def>Escherichia coli strain 4114 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP071328</Hit_accession>
+  <Hit_len>4749838</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>2190950</Hsp_hit-from>
+      <Hsp_hit-to>2190902</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|2852291919|emb|OZ039263.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30348_2#35 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ039263</Hit_accession>
+  <Hit_len>4810634</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>3938144</Hsp_hit-from>
+      <Hsp_hit-to>3938096</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|2786198310|gb|CP158150.1|</Hit_id>
+  <Hit_def>Escherichia coli strain FDN-50 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP158150</Hit_accession>
+  <Hit_len>4921440</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>3929823</Hsp_hit-from>
+      <Hsp_hit-to>3929871</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|2842866514|gb|CP163632.1|</Hit_id>
+  <Hit_def>Escherichia coli strain OXEC-521 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP163632</Hit_accession>
+  <Hit_len>4998714</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>854611</Hsp_hit-from>
+      <Hsp_hit-to>854659</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|2930015174|gb|CP184086.1|</Hit_id>
+  <Hit_def>Escherichia coli strain AZ167 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP184086</Hit_accession>
+  <Hit_len>4995148</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>3536500</Hsp_hit-from>
+      <Hsp_hit-to>3536548</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|2852409763|emb|OZ040610.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30602_2#235 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ040610</Hit_accession>
+  <Hit_len>4912366</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>3998121</Hsp_hit-from>
+      <Hsp_hit-to>3998073</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|2890219726|dbj|AP038983.1|</Hit_id>
+  <Hit_def>Escherichia coli O103:H2 CEC12044 DNA, complete genome</Hit_def>
+  <Hit_accession>AP038983</Hit_accession>
+  <Hit_len>5457995</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|2840469968|gb|CP165090.1|</Hit_id>
+  <Hit_def>Escherichia coli strain OXEC-257 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP165090</Hit_accession>
+  <Hit_len>5212116</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>5051727</Hsp_hit-from>
+      <Hsp_hit-to>5051679</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|2842056539|gb|CP165564.1|</Hit_id>
+  <Hit_def>Escherichia coli strain OXEC-71 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP165564</Hit_accession>
+  <Hit_len>4995034</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>2444193</Hsp_hit-from>
+      <Hsp_hit-to>2444241</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|2852408863|emb|OZ040253.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30859_5#211 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ040253</Hit_accession>
+  <Hit_len>5099357</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4164031</Hsp_hit-from>
+      <Hsp_hit-to>4163983</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|2852409056|emb|OZ041700.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30859_5#355 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ041700</Hit_accession>
+  <Hit_len>5072379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4172798</Hsp_hit-from>
+      <Hsp_hit-to>4172750</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|2840109400|gb|CP164744.1|</Hit_id>
+  <Hit_def>Escherichia coli strain OXEC-362 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP164744</Hit_accession>
+  <Hit_len>4793978</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>2068661</Hsp_hit-from>
+      <Hsp_hit-to>2068613</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|2853107616|gb|CP117479.1|</Hit_id>
+  <Hit_def>Escherichia coli strain BHMS0059 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP117479</Hit_accession>
+  <Hit_len>4681500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>3869525</Hsp_hit-from>
+      <Hsp_hit-to>3869477</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|2922976868|gb|CP183129.1|</Hit_id>
+  <Hit_def>Escherichia coli strain 755 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP183129</Hit_accession>
+  <Hit_len>5471390</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4956847</Hsp_hit-from>
+      <Hsp_hit-to>4956799</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|2971148209|gb|CP182064.1|</Hit_id>
+  <Hit_def>Escherichia coli strain A28264 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP182064</Hit_accession>
+  <Hit_len>5244628</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>889242</Hsp_hit-from>
+      <Hsp_hit-to>889290</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|2852409085|emb|OZ043778.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 31663_7#139 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ043778</Hit_accession>
+  <Hit_len>5163163</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4273610</Hsp_hit-from>
+      <Hsp_hit-to>4273562</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|2852409799|emb|OZ040649.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30134_6#343 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ040649</Hit_accession>
+  <Hit_len>5086452</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4266273</Hsp_hit-from>
+      <Hsp_hit-to>4266225</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|2852291791|emb|OZ039132.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30602_1#350 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ039132</Hit_accession>
+  <Hit_len>5083388</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4158587</Hsp_hit-from>
+      <Hsp_hit-to>4158539</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|2922059836|gb|CP182912.1|</Hit_id>
+  <Hit_def>Escherichia coli strain FAHZZU6014 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP182912</Hit_accession>
+  <Hit_len>4812835</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>599937</Hsp_hit-from>
+      <Hsp_hit-to>599985</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|2977746852|dbj|AP040250.1|</Hit_id>
+  <Hit_def>Shigella flexneri NGY2023-125 DNA, complete genome</Hit_def>
+  <Hit_accession>AP040250</Hit_accession>
+  <Hit_len>4715328</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>758047</Hsp_hit-from>
+      <Hsp_hit-to>758095</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|2852408234|emb|OZ039709.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30348_1#349 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ039709</Hit_accession>
+  <Hit_len>4967979</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4015397</Hsp_hit-from>
+      <Hsp_hit-to>4015349</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|2916913819|gb|CP181459.1|</Hit_id>
+  <Hit_def>Escherichia coli strain 4E chromosome</Hit_def>
+  <Hit_accession>CP181459</Hit_accession>
+  <Hit_len>4931974</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4114652</Hsp_hit-from>
+      <Hsp_hit-to>4114604</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|2839871880|gb|CP164517.1|</Hit_id>
+  <Hit_def>Escherichia coli strain OXEC-429 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP164517</Hit_accession>
+  <Hit_len>4819785</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4168682</Hsp_hit-from>
+      <Hsp_hit-to>4168634</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|2852409686|emb|OZ040524.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30821_1#135 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ040524</Hit_accession>
+  <Hit_len>4992585</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4082542</Hsp_hit-from>
+      <Hsp_hit-to>4082494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|2882268218|gb|CP165460.1|</Hit_id>
+  <Hit_def>Escherichia coli strain OXEC-513 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP165460</Hit_accession>
+  <Hit_len>5116089</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4506006</Hsp_hit-from>
+      <Hsp_hit-to>4505958</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|2839967623|gb|CP164597.1|</Hit_id>
+  <Hit_def>Escherichia coli strain OXEC-417 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP164597</Hit_accession>
+  <Hit_len>5321910</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4390722</Hsp_hit-from>
+      <Hsp_hit-to>4390674</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|2852409083|emb|OZ043776.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30859_5#87 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ043776</Hit_accession>
+  <Hit_len>5026613</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>1031662</Hsp_hit-from>
+      <Hsp_hit-to>1031710</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|2970136938|gb|CP181675.1|</Hit_id>
+  <Hit_def>Escherichia coli strain A31568 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP181675</Hit_accession>
+  <Hit_len>5136413</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4115761</Hsp_hit-from>
+      <Hsp_hit-to>4115713</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|2929587073|gb|CP123311.1|</Hit_id>
+  <Hit_def>Escherichia coli strain AREA_R505 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP123311</Hit_accession>
+  <Hit_len>4918147</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4042271</Hsp_hit-from>
+      <Hsp_hit-to>4042223</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|2852410141|emb|OZ043900.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30859_5#84 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ043900</Hit_accession>
+  <Hit_len>4918076</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>4015671</Hsp_hit-from>
+      <Hsp_hit-to>4015623</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|2852409536|emb|OZ039519.1|</Hit_id>
+  <Hit_def>Escherichia coli isolate 30602_1#20 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ039519</Hit_accession>
+  <Hit_len>5168084</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>1.25912e-14</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>948566</Hsp_hit-from>
+      <Hsp_hit-to>948614</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>116402836</Statistics_db-num>
+      <Statistics_db-len>878439106692</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
